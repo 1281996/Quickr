@@ -8,6 +8,7 @@ public class QuickrApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QuickrApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
